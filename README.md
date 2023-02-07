@@ -1,7 +1,7 @@
 # Umgebung für Python mit Docker erstellen
 
 ## Requirements
-- Docker Desktop
+- Docker & Docker-compose oder Docker Desktop (Docker Personal) oder ähnliches 
 - git 
 
 ## How to
