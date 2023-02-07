@@ -1,4 +1,4 @@
-# Umgebung für Python mit Docker
+# Umgebung für Python mit Docker erstellen
 
 ## Requirements
 - Docker Desktop
@@ -11,7 +11,7 @@
 $ git clone https://github.com/NbtKmy/pythonUmgebung.git
 ``` 
 
-Jenach Bedarf kann man weitere Libraries & Module in "requiremeints.txt" hinzufügen.
+Je nach Bedarf kann man weitere Libraries & Module in "requiremeints.txt" hinzufügen.
 
 2. Den Ordner wechseln
 ```
@@ -69,8 +69,8 @@ Das Token (xxxxx) kopieren und den Terminal laufen lassen. Und im Web-Browser de
 Wenn es gut läuft, kommt man auf die Login-Seite von Jupyter-Notebook. Das Token dort eingeben. Eventuell wird __nach der Admin-Berechtigung__ des PCs gefragt.
 Danach kann man im Browser arbeiten.
 
-3. Arbeit im JupytherNotebook stoppen
+3. Arbeit im Jupyter-Notebook stoppen
 
 Im Terminal, wo Jupyter läuft, `Ctrl + C` drücken.
 
-Die ipynb-File sind in den src-Ordner zu finden.
+Die ipynb-File sind im src-Ordner zu finden.
